@@ -1,0 +1,11 @@
+﻿  Arduino.cpp
+D:\dev\C++\Arduino\Arduino\Arduino.cpp(197,43): warning C4018: '>=': signed/unsigned mismatch
+D:\dev\C++\Arduino\Arduino\Arduino.cpp(203,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\C++\Arduino\Arduino\Arduino.cpp(220,44): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  SerialClass.cpp
+  Generating code
+  0 of 209 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Arduino.vcxproj -> D:\dev\C++\Arduino\x64\Release\Arduino.exe

@@ -1,0 +1,4 @@
+﻿  Arduino.cpp
+C:\Program Files\AMD\RyzenMasterMonitoringSDK\include\IDevice.h(41,2): warning C4091: 'typedef ': ignored on left of 'OCMode' when no variable is declared
+D:\dev\C++\Arduino\Arduino\Arduino.cpp(171,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Arduino.vcxproj -> D:\dev\C++\Arduino\x64\Debug\Arduino.exe
